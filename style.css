@@ -10,6 +10,30 @@ h1 {
     font-family: 'Georgia', serif;
 }
 
+h2 {
+    color: #A78A9A;
+    font-size: 200%;
+    border-bottom: 3px solid #E8D8E8;
+    padding-bottom: 15px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: #C4A5B5;
+    font-size: 150%;
+}
+
+p {
+    font-size: 115%;
+    line-height: 1.9;
+}
+
+img {
+    border: 8px solid #F5E8F0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
 hr {
     border: 2px solid #E8D8E8;
     margin: 50px 0px;
