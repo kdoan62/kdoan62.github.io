@@ -34,6 +34,37 @@ img {
     padding: 5px;
 }
 
+table {
+    border: 3px solid #D4A5A5;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 30px 0px;
+}
+
+th, td {
+    border: 1px solid #E8D8E8;
+    padding: 20px;
+}
+
+th {
+    background-color: #F9F3F9;
+    color: #8B7B8B;
+    text-align: left;
+}
+
+td {
+    background-color: #FFFBFF;
+}
+
+blockquote {
+    border-left: 6px solid #D4A5A5;
+    padding-left: 30px;
+    margin: 40px;
+    font-style: italic;
+    font-size: 150%;
+    color: #8B7B8B;
+}
+
 hr {
     border: 2px solid #E8D8E8;
     margin: 50px 0px;
