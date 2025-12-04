@@ -36,6 +36,7 @@ img {
 
 table {
     border: 3px solid #D4A5A5;
+    border-radius: 10px;
     border-collapse: collapse;
     width: 100%;
     margin: 30px 0px;
